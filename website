@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>N&M Ventures</title>
+    <!-- Link to external stylesheet (if needed) -->
+</head>
+<body>
+    <!-- Header section -->
+    <header>
+        <h1>N&M Webpage</h1>
+    </header>
+
+    <!-- Navigation bar -->
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main content area -->
+    <main>
+        <section>
+            <h2>Welcome!</h2>
+            <p>Welcome to N&M Ventures. We specialize in building projects</p>
+        </section>
+    </main>
+
+    <!-- Footer section -->
+    <footer>
+        <p>Contact me at: <a href="mailto:nmventures@gmail.com">nmventures@gmail.com</a></p>
+        <p>&copy; 2025 N&M Ventures</p>
+    </footer>
+</body>
+</html>
